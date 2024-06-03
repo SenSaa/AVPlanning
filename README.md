@@ -1,4 +1,4 @@
 # AVPlanning
-Autonomous Vehicle Planning Publication.
+Autonomous Vehicle Planning Publication
 
 https://sensaa.github.io/AVPlanning
